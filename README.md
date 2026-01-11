@@ -1,5 +1,4 @@
 
-
 # Rapport de Projet : Système de Gestion Hôtelière (HMS)
 ## 4IIR EMSI 2025-2026
 
@@ -156,7 +155,23 @@ Ce projet nous a permis de mettre en pratique les concepts avancés de Java (JPA
 
 ---
 
-## 10. Webographie
+
+## 10. Langages & Frameworks
+*   Java 17 (LTS) : Le cœur du backend.
+*   Hibernate Core 6.4.0 : Pour la gestion de la base de données (JPA/ORM).
+*   HTML5 / CSS3 / JavaScript (ES6) : Pour le frontend moderne.
+*   Bootstrap 5.3 : Pour le design responsive et les composants (modales, boutons, etc.).
+### 10.1 Outils & Build
+*   Apache Maven 3.9 : Pour automatiser la compilation et gérer les dépendances (pom.xml).
+*   H2 Database : Base de données en mémoire (ultra-rapide pour le développement).
+### 10.2 Environnement de Développement (IDE)
+*   Visual Studio Code (ou IntelliJ IDEA) : Pour l'écriture du code.
+*   Mermaid : Pour la génération des diagrammes UML.
+
+---
+
+
+## 11. Webographie
 *   Documentation Hibernate : [hibernate.org](https://hibernate.org/orm/documentation/6.0/)
 *   Documentation Bootstrap 5 : [getbootstrap.com](https://getbootstrap.com)
 *   Cours Java Avancé EMSI.
