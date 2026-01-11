@@ -165,7 +165,7 @@ Ce projet nous a permis de mettre en pratique les concepts avancés de Java (JPA
 *   Apache Maven 3.9 : Pour automatiser la compilation et gérer les dépendances (pom.xml).
 *   H2 Database : Base de données en mémoire (ultra-rapide pour le développement).
 ### 10.2 Environnement de Développement (IDE)
-*   Visual Studio Code (ou IntelliJ IDEA) : Pour l'écriture du code.
+*   IntelliJ: Pour l'écriture du code.
 *   Mermaid : Pour la génération des diagrammes UML.
 
 ---
