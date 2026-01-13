@@ -1,3 +1,4 @@
+![ME](https://github.com/user-attachments/assets/ae6bbf17-339e-4353-8d29-9b93d44df296)
 
 # Rapport de Projet : Système de Gestion Hôtelière (HMS)
 ## 4IIR EMSI 2025-2026
